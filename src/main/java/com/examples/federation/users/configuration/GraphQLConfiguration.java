@@ -1,8 +1,8 @@
-package com.examples.federation.users.api.configuration;
+package com.examples.federation.users.configuration;
 
 import com.apollographql.federation.graphqljava.Federation;
-import com.examples.federation.users.api.federated.FederatedEntitiesProvider;
-import com.examples.federation.users.api.federated.FederatedTypesResolver;
+import com.examples.federation.users.federated.FederatedEntitiesProvider;
+import com.examples.federation.users.federated.FederatedTypesResolver;
 import graphql.GraphQL;
 import graphql.kickstart.tools.GraphQLResolver;
 import graphql.kickstart.tools.SchemaParserBuilder;

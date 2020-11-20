@@ -1,7 +1,7 @@
-package com.examples.federation.users.api.federated;
+package com.examples.federation.users.federated;
 
 import com.apollographql.federation.graphqljava._Entity;
-import com.examples.federation.users.api.resolvers.QueryResolver;
+import com.examples.federation.users.resolvers.QueryResolver;
 import graphql.GraphQLContext;
 import graphql.schema.DataFetcher;
 import graphql.schema.DataFetchingEnvironment;

@@ -1,6 +1,6 @@
-package com.examples.federation.users.api.resolvers;
+package com.examples.federation.users.resolvers;
 
-import com.examples.federation.users.api.domain.User;
+import com.examples.federation.users.domain.User;
 import graphql.kickstart.tools.GraphQLQueryResolver;
 import org.springframework.stereotype.Component;
 import reactor.core.publisher.Flux;

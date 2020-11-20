@@ -1,4 +1,4 @@
-package com.examples.federation.users.api.api;
+package com.examples.federation.users.api;
 
 import graphql.ExecutionInput;
 import org.reactivestreams.Publisher;

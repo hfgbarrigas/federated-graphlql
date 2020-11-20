@@ -1,4 +1,4 @@
-package com.examples.federation.users.api.federated;
+package com.examples.federation.users.federated;
 
 import graphql.GraphQLContext;
 import graphql.TypeResolutionEnvironment;

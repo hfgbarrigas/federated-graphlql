@@ -1,4 +1,4 @@
-package com.examples.federation.users.api.domain;
+package com.examples.federation.users.domain;
 
 public class User {
     private String id;
